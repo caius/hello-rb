@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker build -t imperosoftware/hello-rb:0.1 --force-rm .
